@@ -29,4 +29,17 @@ nRF Connect
 
 La aplicación nRF Connect es una herramienta poderosa y versátil diseñada para interactuar con dispositivos Bluetooth Low Energy (BLE). Desarrollada por Nordic Semiconductor, esta aplicación permite a los usuarios escanear, publicitar y explorar dispositivos BLE, así como comunicarse con ellos de manera eficiente. nRF Connect es compatible con varios perfiles adoptados por Bluetooth SIG y ofrece funcionalidades avanzadas como la actualización de firmware del dispositivo (DFU), análisis de datos publicitarios, y la configuración del servidor GATT. Además, la aplicación es ideal para desarrolladores y entusiastas que buscan una solución robusta para probar y desarrollar aplicaciones BLE en dispositivos móviles.
 
+Potenciómetro
+
+Un potenciómetro es un componente esencial en el mundo de la electrónica, conocido por su capacidad para ajustar niveles de voltaje en un circuito de manera precisa y manual. Este dispositivo, que funciona como un resistor variable, permite controlar la cantidad de corriente que fluye a través de un circuito, lo que lo hace indispensable en una variedad de aplicaciones. Desde el ajuste de volumen en dispositivos de audio hasta la calibración de sensores en entornos industriales, los potenciómetros ofrecen una solución versátil y eficiente para el control de diferentes parámetros eléctricos. Su diseño simple, con tres terminales y un cursor móvil, facilita su integración en numerosos dispositivos, destacándose por su fiabilidad y facilidad de uso.
+
+LEDs
+
+Los diodos emisores de luz, comúnmente conocidos como LEDs (Light Emitting Diodes), son componentes electrónicos que han revolucionado la iluminación y la tecnología visual. A diferencia de las bombillas tradicionales, los LEDs son altamente eficientes, duraderos y versátiles. Funcionan mediante la emisión de luz cuando una corriente eléctrica pasa a través de un material semiconductor, lo que los hace ideales para una amplia gama de aplicaciones, desde pantallas y señales hasta iluminación ambiental y dispositivos electrónicos. Su capacidad para producir luz en diversos colores y su bajo consumo energético los han convertido en una opción preferida en muchas industrias, destacándose por su eficiencia y sostenibilidad.
+
+
+
+
+
+
 
