@@ -21,6 +21,8 @@ comandos seriales y comunicación BLE.
 
 Introducción
 
+La función Bluetooth es una tecnología de comunicación inalámbrica que puede ser usada para transmisión de datos de corto alcance de un dispositivo digital a otro. Bluetooth es esencialmente una conexión inalámbrica uno a uno que usa ondas de radio de banda de 2,4 GHz.
+
 Bluetooth Low Energy (BLE) en el ESP32
 
 El Bluetooth Low Energy (BLE) en el ESP32 es una tecnología revolucionaria que ha transformado la manera en que los dispositivos se comunican entre sí. Diseñado para aplicaciones que requieren un consumo de energía extremadamente bajo, BLE permite la transmisión eficiente de datos en dispositivos como wearables, sensores de salud, sistemas de automatización del hogar y más. El ESP32, con su capacidad de actuar tanto como servidor como cliente BLE, ofrece una flexibilidad impresionante para desarrolladores y entusiastas de la tecnología. Esta tecnología no solo mejora la eficiencia energética, sino que también proporciona una comunicación segura y confiable, haciendo posible una amplia gama de aplicaciones innovadoras en el mundo de la Internet de las Cosas (IoT).
